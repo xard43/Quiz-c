@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1483992926 source:d:\program files (x86)\codeblocks\projekty\quiz\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<time.h>
+	<string>
+	<algorithm>
+	<sstream>
+	<cstdlib>
+

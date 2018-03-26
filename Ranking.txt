@@ -1,0 +1,9 @@
+marek      1
+Marek1      3
+afag      0
+Marek3      2
+Marek      1
+Marek      1
+Michal      3
+ewa      3
+EWA      2
